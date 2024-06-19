@@ -1,0 +1,8 @@
+{
+    "Parameters": {
+        "Name": "<Name>",
+        "Environment": "<Environment>",
+        "S3Bucket": "<S3Bucket>",
+        "S3Key": "<S3Key>"
+    }
+}
